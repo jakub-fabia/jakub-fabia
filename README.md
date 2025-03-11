@@ -1,8 +1,8 @@
 # Hi, I'm Jakub👋
-🌎 I'm from Kraków, Poland
-👨🏼‍🎓 Studying Computer Science at AGH University of Kraków
-📫 You can reach me at jakub.fabia@proton.me
-🚀 I'm working on these projects:
+🌎 I'm from Kraków, Poland <br>
+👨🏼‍🎓 Studying Computer Science at AGH University of Kraków <br>
+📫 You can reach me at jakub.fabia@proton.me <br>
+🚀 I'm working on these projects: <br>
 - Portfolio
 
 # 💻 Tech Stack:
